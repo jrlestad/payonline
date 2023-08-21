@@ -1,6 +1,6 @@
 package com.payonlinesimplificado.entities;
 
-public enum UserType {
+public enum TypeUser {
 	
 	COMMON,
 	MERCHANT
